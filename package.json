@@ -1,0 +1,30 @@
+{
+  "name": "som",
+  "version": "0.1.1",
+  "private": true,
+  "description": "Compute checksum of a file.",
+  "keywords": [
+    "cli",
+    "tools",
+    "checksum"
+  ],
+  "author": {
+    "name": "aure",
+    "email": "aurelie.mairesse@student.hepl.be"
+  },
+  "homepage": "https://github.com/hepl-ria/som#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hepl-ria/som.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hepl-ria/som/issues"
+  },
+  "license": "WTFPL",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "md5": "^2.0.0",
+    "human-size": "^1.1.0"
+  }
+}
